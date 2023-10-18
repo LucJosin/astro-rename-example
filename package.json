@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "astro": "^3.3.0"
+  },
+  "devDependencies": {
+    "astro-rename": "https://github.com/LucJosin/astro-rename.git"
   }
 }
