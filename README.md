@@ -2,9 +2,13 @@
 
 Final project of blog post: [How to hash class names in astro using astro-rename integration](https://lucjos.in/b/pNCgOiQi)
 
-|                                Default                                |                                Before                                |                                   After                                    |
-| :-------------------------------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| ![Devtools default](./assets/devtools-from-default-astro-project.png) | ![Devtools before](./assets/devtools-from-default-astro-project.png) | ![Devtools after](./assets/devtools-from-custom-astro-rename-strategy.png) |
+# Example of astro-rename integration
+
+Final project of blog post: [How to hash class names in astro using astro-rename integration](https://lucjos.in/b/pNCgOiQi)
+
+|                                                                          Before                                                                          |                                                                             After                                                                             |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Devtools default](https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/pNCgOiQi/devtools-from-default-astro-project.png) | ![Devtools after](https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/pNCgOiQi/devtools-from-custom-astro-rename-strategy.png) |
 
 ![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
 
