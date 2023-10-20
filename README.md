@@ -2,10 +2,6 @@
 
 Final project of blog post: [How to hash class names in astro using astro-rename integration](https://lucjos.in/b/pNCgOiQi)
 
-# Example of astro-rename integration
-
-Final project of blog post: [How to hash class names in astro using astro-rename integration](https://lucjos.in/b/pNCgOiQi)
-
 |                                                                          Before                                                                          |                                                                             After                                                                             |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Devtools default](https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/pNCgOiQi/devtools-from-default-astro-project.png) | ![Devtools after](https://raw.githubusercontent.com/lucjosin/lucasjosino.com/main/public/static/blog/pNCgOiQi/devtools-from-custom-astro-rename-strategy.png) |
